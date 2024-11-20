@@ -1,2 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# dart_json_example
+
+Ein einfaches Beispiel für die Verwendung von JSON in Dart.
+Ist als Konsolenprogramm gestaltet.
+
+Es wird sowohl von JSON dekodiert als auch nach JSON enkodiert.
+Zudem ist ein Beispiel mit verschachteltem JSON enthalten.
